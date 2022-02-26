@@ -3,6 +3,7 @@ This is my first project as a Data Scientist where the kaggle challenge was prop
 TalkingData AdTracking Fraud Detection Challenge
 
 Challenge information, dataset and detailed issue information can be found at:
+
 https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/
 
 As my first analysis, I tried to apply my knowledge acquired so far, and I realized that I had acquired a certain maturity.
