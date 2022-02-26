@@ -1,5 +1,5 @@
-This is my first project as a Data Scientist where the kaggle challenge was proposed by the trainer:
- 
+This is my first project as a Data Scientist proposed by Data Science Academy from Data Scientist Formation program.
+
 TalkingData AdTracking Fraud Detection Challenge
 
 Challenge information, dataset and detailed issue information can be found at:
